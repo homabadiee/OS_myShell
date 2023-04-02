@@ -1,0 +1,6 @@
+a = sbfs : show before first space of each line
+b = mrepWord : most repeated word
+c = esRemov : empty space remover
+d = suncom : show uncomment
+f = lineCounter : count lines
+g = firstTenLines : show first ten lines
